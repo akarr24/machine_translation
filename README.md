@@ -21,15 +21,12 @@ Following training accuracy achieved With only 20 epochs:<br/>
 1. Simple Model: 57% <br/>
 2. Embedding Model: 76% <br/>
 3. Bidirectional (No Embedding): 58% <br/>
-4. Encoder-Decoder Model: 68% <br/>
-5. **Final Model** (Multiple Techniques): 97.79% <br/>
-    *Final Model training accuracy reached 96.2% by the 10th epoch*
+4. Encoder-Decoder Model: 86% <br/>
+5. **Final Model** (Multiple Techniques): 93% <br/>
+    
 
 # Thing to improve
 - Increase epoch for higher accuracy <br/>
 - Increase training data <br/>
 - Add more layers or more units for deeper understanding of data. <br/>
 
-# Contribution
-TODO and Implement parts in the notebook done by Ahmad Barqawi. <br/>
-Document strcure done by Udacity Team
